@@ -16,4 +16,4 @@ Drag Drop List with Flutter
 
 ## Some Screenshots
 
-<img src="https://github.com/truongphamit/Flutter-Drag-Drop-List/blob/master/Screenshots/drag_drop_list_flutter.gif?raw=true" height="300em"/>
+<img src="https://github.com/truongphamit/Flutter-Drag-Drop-List/blob/master/Screenshots/drag_drop_list_flutter.gif?raw=true" height="500em"/>
